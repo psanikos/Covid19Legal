@@ -1,35 +1,5 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@psanikos 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-psanikos
-/
-Covid19InformationPlatformlegal
-1
-00
- Code
- Issues 0
- Pull requests 0 Actions
- Projects 0
- Wiki
- Security 0
- Insights
- Settings
-Covid19InformationPlatform/index.md
-@psanikos psanikos update
-4aa00ea 8 days ago
-166 lines (110 sloc)  15.8 KB
-  
-Privacy Policy Last updated: May 31, 2020
+Privacy Policy Last updated: June 08, 2020
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
